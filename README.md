@@ -1,5 +1,6 @@
 # my_blogs
-
+|Section |    Title         |  
+|---|---|
 | Python |                 |
 | EDA |                                  |
 | Machine Learning |                     |
