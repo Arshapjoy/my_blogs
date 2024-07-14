@@ -1,10 +1,10 @@
 # my_blogs
 |Section |    Title         |  
 |---|---|
-| Python |  - [Introduction to Python](https://medium.com/@DIYCoding/introduction-to-python-e7a5310b5411)               |
-| EDA |     -[Data Cleaning and Pre-processing using Python](https://medium.com/@DIYCoding/data-cleaning-and-pre-processing-using-python-247119f059b1)|
-| Machine Learning | -[Unveiling the Basics of Machine Learning: A Comprehensive Introduction](https://medium.com/@DIYCoding/unveiling-the-basics-of-machine-learning-a-comprehensive-introduction-3233eefd020f)|
-|  |- [How to Choose the Right Machine Learning Algorithm for Your Real-World Problem?](https://medium.com/@DIYCoding/how-to-choose-the-right-machine-learning-algorithm-for-your-real-world-problem-be58266f5dc8)|
+| Python | 1 -  [Introduction to Python](https://medium.com/@DIYCoding/introduction-to-python-e7a5310b5411)               |
+| EDA |    2 - [Data Cleaning and Pre-processing using Python](https://medium.com/@DIYCoding/data-cleaning-and-pre-processing-using-python-247119f059b1)|
+| Machine Learning | 3 - [Unveiling the Basics of Machine Learning: A Comprehensive Introduction](https://medium.com/@DIYCoding/unveiling-the-basics-of-machine-learning-a-comprehensive-introduction-3233eefd020f)|
+|  |4 -  [How to Choose the Right Machine Learning Algorithm for Your Real-World Problem?](https://medium.com/@DIYCoding/how-to-choose-the-right-machine-learning-algorithm-for-your-real-world-problem-be58266f5dc8)|
 |  | -[How to Navigate the Machine Learning Workflow: From Problem Definition to Model Deployment](https://medium.com/@DIYCoding/how-to-navigate-the-machine-learning-workflow-from-problem-definition-to-model-deployment-d40a7e605391)|
 | | -[Linear Regression](https://medium.com/@DIYCoding/linear-regression-0b09b78e8055)|
 | Deep Learning |-[Mastering Artificial Neural Networks](https://medium.com/@DIYCoding/mastering-neural-networks-perceptron-5087989f11af) |
